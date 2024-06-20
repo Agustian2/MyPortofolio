@@ -31,6 +31,8 @@ header .profile-container {
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding: 2rem;
+  max-width: 800px;
   
 }
 
